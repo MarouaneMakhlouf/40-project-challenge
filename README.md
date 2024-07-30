@@ -1,46 +1,60 @@
 # 40-project-challenge
 
 <div>
-<ul>
-    <h2>Beginner Level</h2>
-    <li>Personal Portfolio Website</li>
-    <li>Simple To-Do List App</li>
-    <li>Weather App</li>
-    <li>Basic Calculator</li>
-    <li>Quote Generator</li>
-    <li>Blog</li>
-    <li>Photo Gallery</li>
-    <li>Memory Game</li>
-    <li>BMI Calculator</li>
-    <li>Countdown Timer</li>
+<ul style="list-style: none;">
+    <h2 style="font-size: 40px">Beginner Level</h2>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Personal Portfolio Website</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Simple To-Do List App</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Weather App</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Basic Calculator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Quote Generator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blog</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Photo Gallery</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Memory Game</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">BMI Calculator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Countdown Timer</li>
 </ul>
 
-<ul>
+<ul style="list-style: none;">
+    <h2>Intermediate Level</h2>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;"></li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Simple To-Do List App</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Weather App</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Basic Calculator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Quote Generator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blog</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Photo Gallery</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Memory Game</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">BMI Calculator</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Countdown Timer</li>
+</ul>
+
+<ul style="list-style: none;">
     <h2>Advanced Level</h2>
-    <li>Social Media Dashboard</li>
-    <li>Real Estate Listings</li>
-    <li>Stock Market Dashboard</li>
-    <li>Task Management System</li>
-    <li>Online Code Editor</li>
-    <li>E-learning Platform</li>
-    <li>Fitness Tracker</li>
-    <li>Job Board</li>
-    <li>Travel Planner</li>
-    <li>Interactive Map</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Social Media Dashboard</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Real Estate Listings</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Stock Market Dashboard</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Task Management System</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Online Code Editor</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">E-learning Platform</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Fitness Tracker</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Job Board</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Travel Planner</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Interactive Map</li>
 </ul>
 
-<ul>
+<ul style="list-style: none;">
     <h2>Expert Level</h2>
-    <li>Collaborative Code Editor</li>
-    <li>Cryptocurrency Exchange</li>
-    <li>AI-Powered Chatbot</li>
-    <li>Augmented Reality App</li>
-    <li>Music Recommendation System</li>
-    <li>Blockchain-based Voting System</li>
-    <li>Healthcare Management System</li>
-    <li>Vehicle Tracking System</li>
-    <li>Virtual Classroom</li>
-    <li>IoT Dashboard</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Collaborative Code Editor</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Cryptocurrency Exchange</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">AI-Powered Chatbot</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Augmented Reality App</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Music Recommendation System</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blockchain-based Voting System</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Healthcare Management System</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Vehicle Tracking System</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Virtual Classroom</li>
+    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">IoT Dashboard</li>
 </ul>
 
 </div>
