@@ -1,60 +1,49 @@
-# 40-project-challenge
+# 40-Project Challenge
 
-<div>
-<ul style="list-style: none;">
-    <h2 style="font-size: 40px">Beginner Level</h2>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Personal Portfolio Website</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Simple To-Do List App</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Weather App</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Basic Calculator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Quote Generator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blog</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Photo Gallery</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Memory Game</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">BMI Calculator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Countdown Timer</li>
-</ul>
+## Beginner Level
+1. Personal Portfolio Website
+2. Simple To-Do List App
+3. Weather App
+4. Basic Calculator
+5. Quote Generator
+6. Blog
+7. Photo Gallery
+8. Memory Game
+9. BMI Calculator
+10. Countdown Timer
 
-<ul style="list-style: none;">
-    <h2>Intermediate Level</h2>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;"></li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Simple To-Do List App</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Weather App</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Basic Calculator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Quote Generator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blog</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Photo Gallery</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Memory Game</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">BMI Calculator</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Countdown Timer</li>
-</ul>
+## Intermediate Level
+11. Chat Application
+12. E-commerce Website
+13. Recipe App
+14. Music Player
+15. Expense Tracker
+16. Blog CMS
+17. Weather Dashboard
+18. Note-taking App
+19. Portfolio Website with CMS
+20. Tic Tac Toe Game
 
-<ul style="list-style: none;">
-    <h2>Advanced Level</h2>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Social Media Dashboard</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Real Estate Listings</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Stock Market Dashboard</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Task Management System</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Online Code Editor</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">E-learning Platform</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Fitness Tracker</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Job Board</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Travel Planner</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Interactive Map</li>
-</ul>
+## Advanced Level
+21. Social Media Dashboard
+22. Real Estate Listings
+23. Stock Market Dashboard
+24. Task Management System
+25. Online Code Editor
+26. E-learning Platform
+27. Fitness Tracker
+28. Job Board
+29. Travel Planner
+30. Interactive Map
 
-<ul style="list-style: none;">
-    <h2>Expert Level</h2>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Collaborative Code Editor</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Cryptocurrency Exchange</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">AI-Powered Chatbot</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Augmented Reality App</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Music Recommendation System</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Blockchain-based Voting System</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Healthcare Management System</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Vehicle Tracking System</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">Virtual Classroom</li>
-    <li style="background: #ff7979;padding: 10px ; text-align:center;color: #fff; border-radius: 15px;">IoT Dashboard</li>
-</ul>
-
-</div>
+## Expert Level
+31. Collaborative Code Editor
+32. Cryptocurrency Exchange
+33. AI-Powered Chatbot
+34. Augmented Reality App
+35. Music Recommendation System
+36. Blockchain-based Voting System
+37. Healthcare Management System
+38. Vehicle Tracking System
+39. Virtual Classroom
+40. IoT Dashboard
