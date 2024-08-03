@@ -1,7 +1,7 @@
 # 40-Project Challenge
 
 ## Beginner Level
-1. Personal Portfolio Website
+1. Personal Portfolio Website : <a href="https://github.com/MarouaneMakhlouf/Portfolio">Done</a>
 2. Simple To-Do List App : <a href="https://github.com/MarouaneMakhlouf/simple-to-do-list-app/">Done</a>
 3. Weather App
 4. Basic Calculator
