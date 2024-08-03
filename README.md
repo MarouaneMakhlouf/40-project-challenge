@@ -2,7 +2,7 @@
 
 ## Beginner Level
 1. Personal Portfolio Website
-2. Simple To-Do List App
+2. Simple To-Do List App : <a href="https://github.com/MarouaneMakhlouf/simple-to-do-list-app/">Done</a>
 3. Weather App
 4. Basic Calculator
 5. Quote Generator
